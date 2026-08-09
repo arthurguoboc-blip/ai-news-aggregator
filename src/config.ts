@@ -48,7 +48,7 @@ export const CONFIG = {
 
   timezone: 'Asia/Shanghai',
 
-  filter: {
+ filter: {
   aiKeywords: [
     "长川科技",
     "澜起科技",

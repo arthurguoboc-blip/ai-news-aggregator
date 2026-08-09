@@ -49,19 +49,26 @@ export const CONFIG = {
   timezone: 'Asia/Shanghai',
 
   filter: {
-    aiKeywords: [
+  aiKeywords: [
     "长川科技",
     "澜起科技",
     "佰维存储",
     "江波龙",
     "SK海力士",
+    "海力士",
     "半导体",
     "存储芯片",
+    "存储器",
     "DRAM",
-    "NAND"
-    ],
-   
-    enSignalPattern:
-      /(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])/i,
-  },
+    "NAND",
+    "闪存"
+  ],
+  techKeywords: [],
+  blockKeywords: [],
+  noiseKeywords: [],
+  commerceKeywords: [],
+  tophubAllowKeywords: [],
+  tophubBlockKeywords: [],
+  enSignalPattern: /(.*)/i,
+},
 };

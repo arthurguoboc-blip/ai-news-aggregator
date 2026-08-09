@@ -4,7 +4,9 @@ import type { ArchiveItem } from '../types.js';
 
 function containsAnyKeyword(haystack: string, keywords: string[]): boolean {
   const h = haystack.toLowerCase();
-  return keywords.some((k) => h.includes(k));
+  // 兜底：undefined/null 直接当成空数组
+  if (!Array.isArray(keywords)) return false;
+  return keywords.some((r) => h.includes(r));
 }
 
 export function isAiRelated(record: ArchiveItem): boolean {

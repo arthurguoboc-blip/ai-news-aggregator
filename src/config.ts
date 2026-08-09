@@ -69,6 +69,6 @@ export const CONFIG = {
   commerceKeywords: [],
   tophubAllowKeywords: [],
   tophubBlockKeywords: [],
-  enSignalPattern: /(.*)/i,
+  enSignalPattern: /$^/,
 },
 };

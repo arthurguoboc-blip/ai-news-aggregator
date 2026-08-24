@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-24T14:26:04.781Z",
+  "generated_at": "2026-08-24T17:19:33.908Z",
   "window_hours": 24,
-  "total_items": 46,
-  "total_items_ai_raw": 46,
-  "total_items_raw": 5635,
-  "total_items_all_mode": 5225,
+  "total_items": 45,
+  "total_items_ai_raw": 45,
+  "total_items_raw": 5728,
+  "total_items_all_mode": 5292,
   "topic_filter": "ai_tech_robotics",
-  "archive_total": 123503,
+  "archive_total": 123344,
   "site_count": 13,
-  "source_count": 6,
+  "source_count": 4,
   "site_stats": [
     {
       "site_id": "aibase",
@@ -20,25 +20,31 @@
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "count": 5,
-      "raw_count": 1319
+      "raw_count": 1377
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 3,
-      "raw_count": 777
-    },
-    {
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "count": 1,
-      "raw_count": 1
+      "raw_count": 772
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 2935
+      "raw_count": 2916
+    },
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "count": 0,
+      "raw_count": 353
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "count": 0,
+      "raw_count": 151
     },
     {
       "site_id": "xinzhiyuan",
@@ -47,22 +53,10 @@
       "raw_count": 11
     },
     {
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "count": 0,
-      "raw_count": 142
-    },
-    {
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "count": 0,
-      "raw_count": 303
-    },
-    {
       "site_id": "youtube",
       "site_name": "YouTube",
       "count": 0,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "site_id": "wechat-rss",
@@ -73,6 +67,12 @@
     {
       "site_id": "bestblogs",
       "site_name": "BestBlogs",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "site_id": "zeli",
+      "site_name": "Zeli",
       "count": 0,
       "raw_count": 0
     },
@@ -90,6 +90,21 @@
     }
   ],
   "items": [
+    {
+      "id": "45b71e5a3a3db201016ba94ee38066f00a0ed013",
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "source": "news.google.com",
+      "title": "今日股市：道指在“经济D日”前走高；美光、闪迪股价暴跌（实时报道） - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnE5STlmSDJyVHIzYkNOSzRsUGtHZFd0THZDdThJQzdhT0x1SXdfaXJhMkxVOXF3ZDlhQU1DbTNOS3JONFEtQ2Y2bHhZa3d5V0RSN3JHbUFaY0JtLVkwLWRyWkQ4ZEYtbWhKR0JsSGp0QzB1b18tcFI3YkZfRlhCV0V6UlhGUHFwSTF2SlBjaHp0Q2I1QTROMnpwYjNPM1hZRW5xcVotd2NTV2lGMTFQNXk0N245UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "published_at": "2026-08-24T15:49:22.894Z",
+      "first_seen_at": "2026-08-24T17:19:33.908Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
+      "title_original": "今日股市：道指在“经济D日”前走高；美光、闪迪股价暴跌（实时报道） - Investor's Business Daily",
+      "title_en": null,
+      "title_zh": "今日股市：道指在“经济D日”前走高；美光、闪迪股价暴跌（实时报道） - Investor's Business Daily",
+      "title_bilingual": "今日股市：道指在“经济D日”前走高；美光、闪迪股价暴跌（实时报道） - Investor's Business Daily"
+    },
     {
       "id": "e474f6f564c196da6b3fd1ddb0f33ee4799063ed",
       "site_id": "buzzing",
@@ -114,7 +129,7 @@
       "url": "https://www.aibase.com/news/30580",
       "published_at": "2026-08-24T11:13:55.718Z",
       "first_seen_at": "2026-08-24T11:13:55.718Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
       "title_en": null,
       "title_zh": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
@@ -129,7 +144,7 @@
       "url": "https://www.aibase.com/news/30579",
       "published_at": "2026-08-24T11:13:55.718Z",
       "first_seen_at": "2026-08-24T11:13:55.718Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
       "title_en": null,
       "title_zh": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
@@ -144,7 +159,7 @@
       "url": "https://www.aibase.com/news/30577",
       "published_at": "2026-08-24T11:13:55.718Z",
       "first_seen_at": "2026-08-24T11:13:55.718Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
       "title_en": null,
       "title_zh": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
@@ -159,7 +174,7 @@
       "url": "https://www.aibase.com/news/30576",
       "published_at": "2026-08-24T11:13:55.718Z",
       "first_seen_at": "2026-08-24T11:13:55.718Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
       "title_en": null,
       "title_zh": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
@@ -174,7 +189,7 @@
       "url": "https://www.ithome.com/0/993/673.htm",
       "published_at": "2026-08-24T09:56:32Z",
       "first_seen_at": "2026-08-24T11:13:55.718Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "佰维存储 2026 年上半年归母净利润 71.66 亿元，同比扭亏转盈",
       "title_en": null,
       "title_zh": "佰维存储 2026 年上半年归母净利润 71.66 亿元，同比扭亏转盈",
@@ -189,7 +204,7 @@
       "url": "https://www.aibase.com/news/30575",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
       "title_en": null,
       "title_zh": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
@@ -204,7 +219,7 @@
       "url": "https://www.aibase.com/news/30574",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
       "title_en": null,
       "title_zh": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
@@ -219,7 +234,7 @@
       "url": "https://www.aibase.com/news/30573",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
       "title_en": null,
       "title_zh": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
@@ -234,7 +249,7 @@
       "url": "https://www.aibase.com/news/30572",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
       "title_en": null,
       "title_zh": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
@@ -249,7 +264,7 @@
       "url": "https://www.aibase.com/news/30571",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
       "title_en": null,
       "title_zh": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
@@ -264,7 +279,7 @@
       "url": "https://www.aibase.com/news/30570",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
       "title_en": null,
       "title_zh": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
@@ -279,7 +294,7 @@
       "url": "https://www.aibase.com/news/30569",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
       "title_en": null,
       "title_zh": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
@@ -294,7 +309,7 @@
       "url": "https://www.aibase.com/news/30568",
       "published_at": "2026-08-24T08:29:25.671Z",
       "first_seen_at": "2026-08-24T08:29:25.671Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
       "title_en": null,
       "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
@@ -339,7 +354,7 @@
       "url": "https://www.aibase.com/news/30567",
       "published_at": "2026-08-24T05:58:57.632Z",
       "first_seen_at": "2026-08-24T05:58:57.632Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
       "title_en": null,
       "title_zh": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
@@ -354,7 +369,7 @@
       "url": "https://www.aibase.com/news/30566",
       "published_at": "2026-08-24T05:58:57.632Z",
       "first_seen_at": "2026-08-24T05:58:57.632Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室",
       "title_en": null,
       "title_zh": "顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室",
@@ -369,7 +384,7 @@
       "url": "https://www.aibase.com/news/30565",
       "published_at": "2026-08-24T05:58:57.632Z",
       "first_seen_at": "2026-08-24T05:58:57.632Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
       "title_en": null,
       "title_zh": "OpenAI 研究员 Luke Metz 转投 Meta 超级智能实验室，AI 人才争夺再升级",
@@ -384,7 +399,7 @@
       "url": "https://www.aibase.com/news/30564",
       "published_at": "2026-08-24T05:58:57.632Z",
       "first_seen_at": "2026-08-24T05:58:57.632Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
       "title_en": null,
       "title_zh": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
@@ -399,7 +414,7 @@
       "url": "https://www.aibase.com/news/30563",
       "published_at": "2026-08-24T05:58:57.632Z",
       "first_seen_at": "2026-08-24T05:58:57.632Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
       "title_en": null,
       "title_zh": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
@@ -414,7 +429,7 @@
       "url": "https://www.aibase.com/news/30562",
       "published_at": "2026-08-24T03:33:22.297Z",
       "first_seen_at": "2026-08-24T03:33:22.297Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
       "title_en": null,
       "title_zh": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
@@ -429,7 +444,7 @@
       "url": "https://www.aibase.com/news/30561",
       "published_at": "2026-08-24T03:33:22.297Z",
       "first_seen_at": "2026-08-24T03:33:22.297Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "马斯克点赞!荣耀人形机器人“闪电”400米跑出39.45秒，刷新人类世界纪录",
       "title_en": null,
       "title_zh": "马斯克点赞!荣耀人形机器人“闪电”400米跑出39.45秒，刷新人类世界纪录",
@@ -444,7 +459,7 @@
       "url": "https://www.aibase.com/news/30560",
       "published_at": "2026-08-24T03:33:22.297Z",
       "first_seen_at": "2026-08-24T03:33:22.297Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
+      "last_seen_at": "2026-08-24T17:19:33.908Z",
       "title_original": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
       "title_en": null,
       "title_zh": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
@@ -749,36 +764,6 @@
       "title_en": null,
       "title_zh": "SK海力士将回购3.3%的股份，并注销所有股份",
       "title_bilingual": "SK海力士将回购3.3%的股份，并注销所有股份"
-    },
-    {
-      "id": "ed2efaf0ea9b261675331d0cb83bf5b554d22fee",
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "source": "usbhawk.com",
-      "title": "Show HN: USBHawk——用普通的USB闪存盘解锁电脑",
-      "url": "https://usbhawk.com/",
-      "published_at": "2026-08-23T15:01:18.320Z",
-      "first_seen_at": "2026-08-23T16:56:48.209Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
-      "title_original": "Show HN: USBHawk——用普通的USB闪存盘解锁电脑",
-      "title_en": null,
-      "title_zh": "Show HN: USBHawk——用普通的USB闪存盘解锁电脑",
-      "title_bilingual": "Show HN: USBHawk——用普通的USB闪存盘解锁电脑"
-    },
-    {
-      "id": "77c869a51cb42be8df783ac741da18fb0b2b53cc",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras",
-      "published_at": "2026-08-23T14:38:25Z",
-      "first_seen_at": "2026-08-23T16:56:48.209Z",
-      "last_seen_at": "2026-08-24T14:26:04.781Z",
-      "title_original": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "title_en": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "title_zh": null,
-      "title_bilingual": "Slovakia finds Russian backdoor in traffic speed cameras"
     }
   ]
 }

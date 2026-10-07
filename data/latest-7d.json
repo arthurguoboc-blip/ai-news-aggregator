@@ -1,38 +1,32 @@
 {
-  "generated_at": "2026-10-07T04:28:28.366Z",
+  "generated_at": "2026-10-07T12:42:24.595Z",
   "window_hours": 168,
-  "total_items": 634,
-  "total_items_ai_raw": 634,
-  "total_items_raw": 28340,
-  "total_items_all_mode": 26259,
+  "total_items": 623,
+  "total_items_ai_raw": 623,
+  "total_items_raw": 28505,
+  "total_items_all_mode": 26447,
   "topic_filter": "ai_tech_robotics",
-  "archive_total": 96374,
+  "archive_total": 96815,
   "site_count": 13,
   "source_count": 12,
   "site_stats": [
     {
       "site_id": "zeli",
       "site_name": "Zeli",
-      "count": 564,
-      "raw_count": 564
+      "count": 569,
+      "raw_count": 569
     },
     {
       "site_id": "buzzing",
       "site_name": "Buzzing",
       "count": 31,
-      "raw_count": 7361
-    },
-    {
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "count": 23,
-      "raw_count": 23
+      "raw_count": 7550
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "count": 8,
-      "raw_count": 3361
+      "count": 9,
+      "raw_count": 3365
     },
     {
       "site_id": "wechat-rss",
@@ -41,34 +35,40 @@
       "raw_count": 603
     },
     {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "count": 6,
+      "raw_count": 6
+    },
+    {
       "site_id": "tophub",
       "site_name": "TopHub",
       "count": 0,
-      "raw_count": 13249
-    },
-    {
-      "site_id": "xinzhiyuan",
-      "site_name": "新智元",
-      "count": 0,
-      "raw_count": 62
-    },
-    {
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "count": 0,
-      "raw_count": 2249
+      "raw_count": 13178
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "count": 0,
-      "raw_count": 847
+      "raw_count": 858
+    },
+    {
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "count": 0,
+      "raw_count": 2301
     },
     {
       "site_id": "youtube",
       "site_name": "YouTube",
       "count": 0,
       "raw_count": 21
+    },
+    {
+      "site_id": "xinzhiyuan",
+      "site_name": "新智元",
+      "count": 0,
+      "raw_count": 54
     },
     {
       "site_id": "bestblogs",
@@ -91,6 +91,246 @@
   ],
   "items": [
     {
+      "id": "72a8ba5da0a27022c4aeccae0bf6ce90aaf45ff8",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "published_at": "2026-10-07T11:25:02Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Shipping JPEG XL in Chrome",
+      "title_en": "Shipping JPEG XL in Chrome",
+      "title_zh": "在 Chrome 中传输 JPEG XL 文件",
+      "title_bilingual": "在 Chrome 中传输 JPEG XL 文件 / Shipping JPEG XL in Chrome"
+    },
+    {
+      "id": "5516ef915d35f61ba63e9b5a64ac8030d122ca8f",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+      "url": "https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html",
+      "published_at": "2026-10-07T11:08:08Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+      "title_en": "Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+      "title_zh": "分析称，永久夏令时可能会损害睡眠和心理健康",
+      "title_bilingual": "分析称，永久夏令时可能会损害睡眠和心理健康 / Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says"
+    },
+    {
+      "id": "24ec1c7444a648df4e3c859736451a4bd1f12887",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "published_at": "2026-10-07T10:24:19Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "title_en": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "title_zh": "PS5 越狱事件正以前所未有的速度升级",
+      "title_bilingual": "PS5 越狱事件正以前所未有的速度升级 / PS5 Jailbreaks Are Escalating at an Unprecedented Pace"
+    },
+    {
+      "id": "349687537881d349e764ebe2068122fac7b0e845",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release",
+      "published_at": "2026-10-07T09:51:43Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "title_en": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "title_zh": "2026 年诺贝尔化学奖授予 Henri B. Kagan 和 Kenso Soai",
+      "title_bilingual": "2026 年诺贝尔化学奖授予 Henri B. Kagan 和 Kenso Soai / Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai"
+    },
+    {
+      "id": "fb080513f67da671fadba0de8e165191a7330370",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font",
+      "published_at": "2026-10-07T09:17:55Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "title_en": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "title_zh": "一款根据经典Commodore 64键帽照片重新设计的字体",
+      "title_bilingual": "一款根据经典Commodore 64键帽照片重新设计的字体 / A font recreated from photographs of classic Commodore 64 keycaps"
+    },
+    {
+      "id": "467921118410b56266df8737b23446658becd787",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Reasons to Dislike AI Coding",
+      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding",
+      "published_at": "2026-10-07T09:15:00Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Reasons to Dislike AI Coding",
+      "title_en": "Reasons to Dislike AI Coding",
+      "title_zh": "讨厌AI编程的原因",
+      "title_bilingual": "讨厌AI编程的原因 / Reasons to Dislike AI Coding"
+    },
+    {
+      "id": "27e5974b23a80e310d6f67ca1e880b32afc7964d",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "IT之家 (ITHome)",
+      "title": "韩国散户押注三星、SK 海力士相关杠杆 ETF，数月巨亏 2.3 万亿韩元",
+      "url": "https://www.ithome.com/1/010/197.htm",
+      "published_at": "2026-10-07T06:13:29Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "韩国散户押注三星、SK 海力士相关杠杆 ETF，数月巨亏 2.3 万亿韩元",
+      "title_en": null,
+      "title_zh": "韩国散户押注三星、SK 海力士相关杠杆 ETF，数月巨亏 2.3 万亿韩元",
+      "title_bilingual": "韩国散户押注三星、SK 海力士相关杠杆 ETF，数月巨亏 2.3 万亿韩元"
+    },
+    {
+      "id": "672cfce0a8301a4fb4e72e4f538ac125edbf562b",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Clean room implementation of Adobe products",
+      "url": "https://github.com/storytold",
+      "published_at": "2026-10-07T06:02:46Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Clean room implementation of Adobe products",
+      "title_en": "Clean room implementation of Adobe products",
+      "title_zh": "Adobe 产品的洁净室实施",
+      "title_bilingual": "Adobe 产品的洁净室实施 / Clean room implementation of Adobe products"
+    },
+    {
+      "id": "5e13cc58de212daa223929275cd49e1096788e14",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "url": "https://github.com/shader-effects-inc/shaders",
+      "published_at": "2026-10-07T05:38:35Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "title_en": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
+      "title_zh": "用于 React、Vue、Svelte、Solid、JavaScript 和 Framer 的着色器、WebGPU 组件",
+      "title_bilingual": "用于 React、Vue、Svelte、Solid、JavaScript 和 Framer 的着色器、WebGPU 组件 / Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer"
+    },
+    {
+      "id": "f7cfd0be786aeb42ca7f1c3aebbf6696b7d82d7c",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar",
+      "url": "https://gizmodo.com/we-asked-starbucks-why-their-sugar-free-drinks-have-sugar-and-now-were-just-more-confused-2000822422",
+      "published_at": "2026-10-07T05:27:01Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar",
+      "title_en": "We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar",
+      "title_zh": "我们询问星巴克为什么他们的“无糖”饮料含有糖",
+      "title_bilingual": "我们询问星巴克为什么他们的“无糖”饮料含有糖 / We Asked Starbucks Why Their 'Sugar-Free' Drinks Have Sugar"
+    },
+    {
+      "id": "98a9700eb005ec94bc2b696f64c56e065fed219b",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services",
+      "published_at": "2026-10-07T04:37:05Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "title_en": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "title_zh": "黑客获取了针对谷歌及其他大型服务的伪造TLS证书",
+      "title_bilingual": "黑客获取了针对谷歌及其他大型服务的伪造TLS证书 / Hackers obtain counterfeit TLS certificates for Google and other large services"
+    },
+    {
+      "id": "a7fb6c66592c128eabe9efebbe4777ea99fa5bb0",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Calling It Quits on ServerFault",
+      "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
+      "published_at": "2026-10-07T04:22:04Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Calling It Quits on ServerFault",
+      "title_en": "Calling It Quits on ServerFault",
+      "title_zh": "在 ServerFault 上调用它退出",
+      "title_bilingual": "在 ServerFault 上调用它退出 / Calling It Quits on ServerFault"
+    },
+    {
+      "id": "359f9e3e2eff05037280ede50cbd08cd6cac8d45",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "published_at": "2026-10-07T03:43:14Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "The art of defusing a second world war bomb",
+      "title_en": "The art of defusing a second world war bomb",
+      "title_zh": "拆除第二次世界大战炸弹的艺术",
+      "title_bilingual": "拆除第二次世界大战炸弹的艺术 / The art of defusing a second world war bomb"
+    },
+    {
+      "id": "8803fd8e24c196bdfcbc7283314d7e823a748627",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "published_at": "2026-10-07T03:30:44Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "title_en": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "title_zh": "Show HN: NanoMuse——一款适用于手机和电脑的开源人工智能代理",
+      "title_bilingual": "Show HN: NanoMuse——一款适用于手机和电脑的开源人工智能代理 / Show HN: NanoMuse – An open-source AI agent for your phone and computer"
+    },
+    {
+      "id": "5c83fda4a011e409f96afda911ac20c23411424e",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "published_at": "2026-10-07T03:16:45Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "title_en": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "title_zh": "La Cueva BBS - 墨西哥 - 1993 年（会议重播）",
+      "title_bilingual": "La Cueva BBS - 墨西哥 - 1993 年（会议重播） / La Cueva BBS in Mexico in 1993 (session replay)"
+    },
+    {
+      "id": "0687aa6c5d91557ea4e1cdc3052faec3b67ab766",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Xbox has secured exclusive GTA 6 streaming rights",
+      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "published_at": "2026-10-07T02:22:42Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Xbox has secured exclusive GTA 6 streaming rights",
+      "title_en": "Xbox has secured exclusive GTA 6 streaming rights",
+      "title_zh": "Xbox 已获得 GTA 6 独家流媒体播放权",
+      "title_bilingual": "Xbox 已获得 GTA 6 独家流媒体播放权 / Xbox has secured exclusive GTA 6 streaming rights"
+    },
+    {
       "id": "46f7d21b7cc2b038cae25f74f7d3c8a6ece9bf5b",
       "site_id": "zeli",
       "site_name": "Zeli",
@@ -99,11 +339,26 @@
       "url": "https://strandsagents.com/blog/introducing-strands-decider",
       "published_at": "2026-10-07T02:02:11Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Strands Decider 2B: a small, open-source, decision model",
       "title_en": "Strands Decider 2B: a small, open-source, decision model",
-      "title_zh": null,
-      "title_bilingual": "Strands Decider 2B: a small, open-source, decision model"
+      "title_zh": "Strands Decider 2B：一个小型开源决策模型",
+      "title_bilingual": "Strands Decider 2B：一个小型开源决策模型 / Strands Decider 2B: a small, open-source, decision model"
+    },
+    {
+      "id": "0a4e4b2164ae60c5faeb60a03bafbd9ca7718fd4",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "published_at": "2026-10-07T01:44:59Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "title_en": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "title_zh": "切尔诺贝利微粒揭示：40年后核燃料出人意料地保持稳定",
+      "title_bilingual": "切尔诺贝利微粒揭示：40年后核燃料出人意料地保持稳定 / Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years"
     },
     {
       "id": "20c1d9ecff14d4478d1ce9ef7dbb2d7db0a975d0",
@@ -114,11 +369,26 @@
       "url": "https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118",
       "published_at": "2026-10-07T01:42:24Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
       "title_en": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
-      "title_zh": null,
-      "title_bilingual": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald"
+      "title_zh": "一对夫妇因发布关于诺姆·麦克唐纳的帖子，在两年内遭遇了55次“SWAT”恶作剧",
+      "title_bilingual": "一对夫妇因发布关于诺姆·麦克唐纳的帖子，在两年内遭遇了55次“SWAT”恶作剧 / Couple was swatted 55 times in 2 years over a post about Norm Macdonald"
+    },
+    {
+      "id": "e6aa2772ffd10376996b1c077c0eb546a5104759",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "published_at": "2026-10-07T01:41:03Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "title_en": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "title_zh": "我雇了一位插画家来画我的房子。现在是我的 Home Assistant 仪表板",
+      "title_bilingual": "我雇了一位插画家来画我的房子。现在是我的 Home Assistant 仪表板 / I hired an illustrator to draw my house. Now it's my Home Assistant dashboard"
     },
     {
       "id": "9632ac65b8f6ca35086f68e6fc12fdebe344a3ae",
@@ -129,11 +399,26 @@
       "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
       "published_at": "2026-10-07T01:39:21Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "ESP32-C3 Adblock",
       "title_en": "ESP32-C3 Adblock",
-      "title_zh": null,
-      "title_bilingual": "ESP32-C3 Adblock"
+      "title_zh": "ESP32-C3 广告拦截器",
+      "title_bilingual": "ESP32-C3 广告拦截器 / ESP32-C3 Adblock"
+    },
+    {
+      "id": "a9dee2bea6fcb035bc042c6b31f76293b762d205",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "published_at": "2026-10-07T01:27:49Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "title_en": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "title_zh": "Jev 驱动的 SRE 诊断：哪些有效，哪些失败",
+      "title_bilingual": "Jev 驱动的 SRE 诊断：哪些有效，哪些失败 / Jev-Driven SRE Diagnosis: What Worked and What Failed"
     },
     {
       "id": "a88bdcde0b2c6776bfbfb8fb2b9be4f93bd8c955",
@@ -144,11 +429,11 @@
       "url": "https://orchidfiles.com/account-bans-on-reddit",
       "published_at": "2026-10-07T00:28:29Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Account bans on Reddit",
       "title_en": "Account bans on Reddit",
-      "title_zh": null,
-      "title_bilingual": "Account bans on Reddit"
+      "title_zh": "Reddit 帐户被封禁",
+      "title_bilingual": "Reddit 帐户被封禁 / Account bans on Reddit"
     },
     {
       "id": "aafca4adcf8de5794fa1aec26de59a8ba3ffff2f",
@@ -159,11 +444,11 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
       "published_at": "2026-10-06T23:54:35Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Stanford scientists found a way to regrow cartilage and stop arthritis",
       "title_en": "Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "title_zh": null,
-      "title_bilingual": "Stanford scientists found a way to regrow cartilage and stop arthritis"
+      "title_zh": "斯坦福大学的科学家找到了一种再生软骨并阻止关节炎的方法",
+      "title_bilingual": "斯坦福大学的科学家找到了一种再生软骨并阻止关节炎的方法 / Stanford scientists found a way to regrow cartilage and stop arthritis"
     },
     {
       "id": "3b47af8d5d83dfa8b17212e8261aa980bf869dfd",
@@ -174,11 +459,11 @@
       "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
       "published_at": "2026-10-06T23:50:33Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "South Korea says AI agents appear to have been used to hack the country's banks",
       "title_en": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "title_zh": null,
-      "title_bilingual": "South Korea says AI agents appear to have been used to hack the country's banks"
+      "title_zh": "韩国称人工智能代理似乎已被用来入侵该国的银行",
+      "title_bilingual": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks"
     },
     {
       "id": "f414bb05145ae1fdb4bbe0d1679b8e72af95e188",
@@ -189,11 +474,11 @@
       "url": "https://github.com/openai/math/tree/main/preprints",
       "published_at": "2026-10-06T23:37:02Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples",
       "title_en": "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples",
-      "title_zh": null,
-      "title_bilingual": "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples"
+      "title_zh": "OpenAI 刚刚发布了 700 份数学证明和反例的预印本",
+      "title_bilingual": "OpenAI 刚刚发布了 700 份数学证明和反例的预印本 / OpenAI just dropped 700 preprints of mathematical proofs and counterexamples"
     },
     {
       "id": "158a4aa5009fcc9f5cc69f0c65807e558ae0dddc",
@@ -204,7 +489,7 @@
       "url": "https://github.com/boykopovar/AnyPS5",
       "published_at": "2026-10-06T23:28:08Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
       "title_en": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
       "title_zh": "AnyPS5：无需模拟即可将PS5二进制文件移植到PC（已映射87%的系统库）",
@@ -219,7 +504,7 @@
       "url": "https://2026.stateofdevs.com/en-US",
       "published_at": "2026-10-06T23:26:30Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "State of Devs 2026",
       "title_en": "State of Devs 2026",
       "title_zh": "2026年开发者现状",
@@ -234,11 +519,11 @@
       "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
       "published_at": "2026-10-06T23:14:52Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Integer multiplication below n log n",
       "title_en": "Integer multiplication below n log n",
-      "title_zh": null,
-      "title_bilingual": "Integer multiplication below n log n"
+      "title_zh": "n log n 内的整数乘法",
+      "title_bilingual": "n log n 内的整数乘法 / Integer multiplication below n log n"
     },
     {
       "id": "7a0311ee4b9e39fc91226723d3de518fa2a73a43",
@@ -264,11 +549,11 @@
       "url": "https://www.youtube.com/watch?v=0otdTJa9IUc",
       "published_at": "2026-10-06T22:26:29Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "You Are an Expert Software Engineer [Krazam] [video]",
       "title_en": "You Are an Expert Software Engineer [Krazam] [video]",
-      "title_zh": null,
-      "title_bilingual": "You Are an Expert Software Engineer [Krazam] [video]"
+      "title_zh": "您是专家软件工程师 [Krazam] [视频]",
+      "title_bilingual": "您是专家软件工程师 [Krazam] [视频] / You Are an Expert Software Engineer [Krazam] [video]"
     },
     {
       "id": "4d739436cf08bad1b6e6e3536a8fbcc9c5fa1ee6",
@@ -294,7 +579,7 @@
       "url": "https://github.com/openai/math",
       "published_at": "2026-10-06T22:22:48Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Mathematical manuscripts and supporting proof artifacts produced by OpenAI",
       "title_en": "Mathematical manuscripts and supporting proof artifacts produced by OpenAI",
       "title_zh": "OpenAI 发布数学研究目录",
@@ -309,11 +594,11 @@
       "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
       "published_at": "2026-10-06T22:19:38Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "An Open Letter to Steven Pinker on AI",
       "title_en": "An Open Letter to Steven Pinker on AI",
-      "title_zh": null,
-      "title_bilingual": "An Open Letter to Steven Pinker on AI"
+      "title_zh": "致史蒂文·平克 (Steven Pinker) 的关于人工智能的公开信",
+      "title_bilingual": "致史蒂文·平克 (Steven Pinker) 的关于人工智能的公开信 / An Open Letter to Steven Pinker on AI"
     },
     {
       "id": "fa0f52678ebdee1616aa7c41424b28066c927a5a",
@@ -324,7 +609,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "published_at": "2026-10-06T22:17:21Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Sharing AI progress in mathematics",
       "title_en": "Sharing AI progress in mathematics",
       "title_zh": "分享人工智能在数学领域的进展",
@@ -339,11 +624,11 @@
       "url": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
       "published_at": "2026-10-06T22:11:35Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Anduril lands $2.9B Navy submarine shipyard contract",
       "title_en": "Anduril lands $2.9B Navy submarine shipyard contract",
-      "title_zh": null,
-      "title_bilingual": "Anduril lands $2.9B Navy submarine shipyard contract"
+      "title_zh": "Anduril 获得 $2.9B 海军潜艇造船厂合同",
+      "title_bilingual": "Anduril 获得 $2.9B 海军潜艇造船厂合同 / Anduril lands $2.9B Navy submarine shipyard contract"
     },
     {
       "id": "9ea3625369af0c45b85a17229a31c93edd94cac7",
@@ -354,11 +639,11 @@
       "url": "https://www.nature.com/articles/s41598-020-73426-0",
       "published_at": "2026-10-06T22:10:59Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "The role of cat eye narrowing movements in cat–human communication (2020)",
       "title_en": "The role of cat eye narrowing movements in cat–human communication (2020)",
-      "title_zh": null,
-      "title_bilingual": "The role of cat eye narrowing movements in cat–human communication (2020)"
+      "title_zh": "猫眼缩小运动在猫与人交流中的作用（2020）",
+      "title_bilingual": "猫眼缩小运动在猫与人交流中的作用（2020） / The role of cat eye narrowing movements in cat–human communication (2020)"
     },
     {
       "id": "5d0003251a4b5f1bb8edaa5beb7a094c2342ff81",
@@ -369,7 +654,7 @@
       "url": "https://penguin-mail.com/",
       "published_at": "2026-10-06T21:59:43Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
       "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
       "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
@@ -384,11 +669,11 @@
       "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
       "published_at": "2026-10-06T21:52:57Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "How Fast is Python 3.15?",
       "title_en": "How Fast is Python 3.15?",
-      "title_zh": null,
-      "title_bilingual": "How Fast is Python 3.15?"
+      "title_zh": "Python 3.15 的运行速度如何？",
+      "title_bilingual": "Python 3.15 的运行速度如何？ / How Fast is Python 3.15?"
     },
     {
       "id": "5245d1df10641e432e30a36eb4f7abb07515b378",
@@ -399,7 +684,7 @@
       "url": "https://developers.openai.com/api/docs/guides/decisions",
       "published_at": "2026-10-06T20:57:25Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Decisions API is in public beta",
       "title_en": "Decisions API is in public beta",
       "title_zh": "Decisions API 已进入公开测试阶段",
@@ -414,11 +699,11 @@
       "url": "https://www.cbc.ca/news/canada/british-columbia/mother-jones-chatgpt-safeguards-tumbler-ridge-bc-shooter-9.7358031",
       "published_at": "2026-10-06T20:44:29Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
       "title_en": "Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter",
-      "title_zh": null,
-      "title_bilingual": "Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter"
+      "title_zh": "Tumbler Ridge 射手使用的 ChatGPT 比已知的“更令人不安”：记者",
+      "title_bilingual": "Tumbler Ridge 射手使用的 ChatGPT 比已知的“更令人不安”：记者 / Tumbler Ridge shooter's ChatGPT use \"more disturbing\" than known: reporter"
     },
     {
       "id": "70f25a955ce725cc3ab4d5aaafb2446fc5f78295",
@@ -429,7 +714,7 @@
       "url": "https://www.openssh.org/releasenotes.html",
       "published_at": "2026-10-06T20:41:39Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "OpenSSH 10.6",
       "title_en": "OpenSSH 10.6",
       "title_zh": null,
@@ -444,11 +729,11 @@
       "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure",
       "published_at": "2026-10-06T20:40:48Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Vibecoding Photoshop: Time and pressure",
       "title_en": "Vibecoding Photoshop: Time and pressure",
-      "title_zh": null,
-      "title_bilingual": "Vibecoding Photoshop: Time and pressure"
+      "title_zh": "Vibecoding Photoshop：时间和压力",
+      "title_bilingual": "Vibecoding Photoshop：时间和压力 / Vibecoding Photoshop: Time and pressure"
     },
     {
       "id": "fb79ac015291baca6d500c627edcc62a22f9386c",
@@ -459,7 +744,7 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth",
       "published_at": "2026-10-06T20:33:47Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
       "title_en": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
       "title_zh": "派拉蒙完成以111B美元收购华纳的交易，打造出“Skydance”这一巨头",
@@ -474,7 +759,7 @@
       "url": "https://kevinboone.me/adblock.html",
       "published_at": "2026-10-06T20:29:10Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "System-level ad-blocking in Android",
       "title_en": "System-level ad-blocking in Android",
       "title_zh": "Android 中的系统级广告拦截",
@@ -489,7 +774,7 @@
       "url": "https://ersc.io/blog/when-random-isnt-random-enough",
       "published_at": "2026-10-06T20:12:05Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "When random is not actually random enough",
       "title_en": "When random is not actually random enough",
       "title_zh": "当“随机”其实并不够随机时",
@@ -504,11 +789,11 @@
       "url": "https://www.goncharov.xyz/it/tf4proxmox-en.html",
       "published_at": "2026-10-06T19:58:19Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Terraform Meets Proxmox: Lessons from a VMware Migration",
       "title_en": "Terraform Meets Proxmox: Lessons from a VMware Migration",
-      "title_zh": null,
-      "title_bilingual": "Terraform Meets Proxmox: Lessons from a VMware Migration"
+      "title_zh": "Terraform 遇见 Proxmox：VMware 迁移的经验教训",
+      "title_bilingual": "Terraform 遇见 Proxmox：VMware 迁移的经验教训 / Terraform Meets Proxmox: Lessons from a VMware Migration"
     },
     {
       "id": "8d77e6a93f01df0e7bd57a0d24b346b54b6309ee",
@@ -519,11 +804,11 @@
       "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage",
       "published_at": "2026-10-06T19:55:11Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
       "title_en": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
-      "title_zh": null,
-      "title_bilingual": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage"
+      "title_zh": "404 媒体报道后，立法者出台多项法律遏制人群聚集",
+      "title_bilingual": "404 媒体报道后，立法者出台多项法律遏制人群聚集 / Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage"
     },
     {
       "id": "a5039c40dbda82e0a80e75628006e7b5ed12871a",
@@ -534,7 +819,7 @@
       "url": "https://dbushell.com/2026/10/07/sustainable-web-career",
       "published_at": "2026-10-06T19:31:24Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "A sustainable web career, for when all this blows over",
       "title_en": "A sustainable web career, for when all this blows over",
       "title_zh": "一份可持续的网络职业，以备这一切过去之后",
@@ -549,11 +834,11 @@
       "url": "https://www.theglobeandmail.com/life/social-trends/article-why-do-tech-ceos-sound-like-doomsday-cult-leaders",
       "published_at": "2026-10-06T19:21:32Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Why do tech CEOs sound like doomsday cult leaders?",
       "title_en": "Why do tech CEOs sound like doomsday cult leaders?",
-      "title_zh": null,
-      "title_bilingual": "Why do tech CEOs sound like doomsday cult leaders?"
+      "title_zh": "为什么科技公司的首席执行官听起来像世界末日邪教领袖？",
+      "title_bilingual": "为什么科技公司的首席执行官听起来像世界末日邪教领袖？ / Why do tech CEOs sound like doomsday cult leaders?"
     },
     {
       "id": "c80c64d4f3a25b235fa724b93635bd333cf4966c",
@@ -564,11 +849,11 @@
       "url": "https://berthd.app/",
       "published_at": "2026-10-06T19:14:19Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Berthd",
       "title_en": "Berthd",
-      "title_zh": null,
-      "title_bilingual": "Berthd"
+      "title_zh": "泊思德",
+      "title_bilingual": "泊思德 / Berthd"
     },
     {
       "id": "8ea77b868206a13a33fd400b196e62256d8b9be1",
@@ -579,7 +864,7 @@
       "url": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill",
       "published_at": "2026-10-06T18:52:18Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
       "title_en": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
       "title_zh": "一家总部位于多伦多的VPN服务商计划因《合法访问法案》而撤离加拿大",
@@ -594,11 +879,11 @@
       "url": "https://www.bbc.com/news/articles/cvj6jkx6g1r0o",
       "published_at": "2026-10-06T18:41:39Z",
       "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Finland orders halt to work on two Google data centres",
       "title_en": "Finland orders halt to work on two Google data centres",
-      "title_zh": null,
-      "title_bilingual": "Finland orders halt to work on two Google data centres"
+      "title_zh": "芬兰下令停止两个谷歌数据中心的工作",
+      "title_bilingual": "芬兰下令停止两个谷歌数据中心的工作 / Finland orders halt to work on two Google data centres"
     },
     {
       "id": "356d2bc0de45e818df061483fbcd512688008dac",
@@ -609,11 +894,26 @@
       "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "published_at": "2026-10-06T18:00:34Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Claude Code’s suggested message feature: I think the real customer is the model",
       "title_en": "Claude Code’s suggested message feature: I think the real customer is the model",
       "title_zh": "克劳德·科德提出的消息功能：我认为真正的客户是模型",
       "title_bilingual": "克劳德·科德提出的消息功能：我认为真正的客户是模型 / Claude Code’s suggested message feature: I think the real customer is the model"
+    },
+    {
+      "id": "e8dd288d722d727a959a91ccae636010255b6124",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Chrome's Response to Recent ccTLD Registry Hijacks",
+      "url": "https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks",
+      "published_at": "2026-10-06T17:59:32Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Chrome's Response to Recent ccTLD Registry Hijacks",
+      "title_en": "Chrome's Response to Recent ccTLD Registry Hijacks",
+      "title_zh": "Chrome 对近期 ccTLD 注册局被劫持事件的回应",
+      "title_bilingual": "Chrome 对近期 ccTLD 注册局被劫持事件的回应 / Chrome's Response to Recent ccTLD Registry Hijacks"
     },
     {
       "id": "539da0aa5404fc717e54bb02e42795cc9f80ff60",
@@ -627,8 +927,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
       "title_en": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "title_zh": null,
-      "title_bilingual": "Weight-loss drugs show signs of slowing biological aging, say drugmakers"
+      "title_zh": "制药商表示，减肥药显示出减缓生物衰老的迹象",
+      "title_bilingual": "制药商表示，减肥药显示出减缓生物衰老的迹象 / Weight-loss drugs show signs of slowing biological aging, say drugmakers"
     },
     {
       "id": "c043325c6187cb9337cc427856ae0e114a3070c3",
@@ -639,7 +939,7 @@
       "url": "https://github.com/storytold/photocraft",
       "published_at": "2026-10-06T17:20:00Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Adobe Creative Suite Cleanroom Port to Rust",
       "title_en": "Adobe Creative Suite Cleanroom Port to Rust",
       "title_zh": "Adobe Creative Suite 向 Rust 语言的“洁净室”移植",
@@ -657,8 +957,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Nano Banana 2.1",
       "title_en": "Nano Banana 2.1",
-      "title_zh": null,
-      "title_bilingual": "Nano Banana 2.1"
+      "title_zh": "纳米香蕉2.1",
+      "title_bilingual": "纳米香蕉2.1 / Nano Banana 2.1"
     },
     {
       "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
@@ -669,11 +969,26 @@
       "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
       "published_at": "2026-10-06T17:01:52Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
       "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "title_zh": null,
-      "title_bilingual": "Utah to let AI examine patients and prescribe medication without human oversight"
+      "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+      "title_bilingual": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight"
+    },
+    {
+      "id": "c97654c020dc51c16348b7e09738d7df455c352d",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "California closed the Montana license plate loophole",
+      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+      "published_at": "2026-10-06T17:00:59Z",
+      "first_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "California closed the Montana license plate loophole",
+      "title_en": "California closed the Montana license plate loophole",
+      "title_zh": "加利福尼亚州堵住了蒙大拿州车牌的法律漏洞",
+      "title_bilingual": "加利福尼亚州堵住了蒙大拿州车牌的法律漏洞 / California closed the Montana license plate loophole"
     },
     {
       "id": "cf7d31be5d72745fd92843ad6ec9603af9f7fcf9",
@@ -687,23 +1002,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "How California Closed the Montana License Plate Loophole",
       "title_en": "How California Closed the Montana License Plate Loophole",
-      "title_zh": null,
-      "title_bilingual": "How California Closed the Montana License Plate Loophole"
-    },
-    {
-      "id": "c97654c020dc51c16348b7e09738d7df455c352d",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "California closed the Montana license plate loophole",
-      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
-      "published_at": "2026-10-06T17:00:59Z",
-      "first_seen_at": "2026-10-07T04:28:28.366Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "California closed the Montana license plate loophole",
-      "title_en": "California closed the Montana license plate loophole",
-      "title_zh": null,
-      "title_bilingual": "California closed the Montana license plate loophole"
+      "title_zh": "加利福尼亚州堵住了蒙大拿州车牌的法律漏洞",
+      "title_bilingual": "加利福尼亚州堵住了蒙大拿州车牌的法律漏洞 / How California Closed the Montana License Plate Loophole"
     },
     {
       "id": "b9b9dfbefd17f18cd5c117ab92de06e7dd7e4b7f",
@@ -714,7 +1014,7 @@
       "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06",
       "published_at": "2026-10-06T16:51:50Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Former German spy chief arrested for attempted treason",
       "title_en": "Former German spy chief arrested for attempted treason",
       "title_zh": "德国前情报局长因涉嫌叛国未遂和窃取国家机密被捕",
@@ -732,8 +1032,23 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "LibreOffice says 'no AI' is now a software feature",
       "title_en": "LibreOffice says 'no AI' is now a software feature",
-      "title_zh": null,
-      "title_bilingual": "LibreOffice says 'no AI' is now a software feature"
+      "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+      "title_bilingual": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature"
+    },
+    {
+      "id": "de31c3b7805782f4e5c30cdb2d6e0169deb78882",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Treg (OpenRouter for Tools)",
+      "url": "https://github.com/superdesigndev/treg",
+      "published_at": "2026-10-06T16:29:59Z",
+      "first_seen_at": "2026-10-07T12:42:24.595Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "Treg (OpenRouter for Tools)",
+      "title_en": "Treg (OpenRouter for Tools)",
+      "title_zh": "Treg（OpenRouter 工具）",
+      "title_bilingual": "Treg（OpenRouter 工具） / Treg (OpenRouter for Tools)"
     },
     {
       "id": "61c9561437552003e0219c18e79b3b7849a05808",
@@ -744,7 +1059,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "published_at": "2026-10-06T16:23:25Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "OpenTPU – An open-source AI accelerator, developed by AI",
       "title_en": "OpenTPU – An open-source AI accelerator, developed by AI",
       "title_zh": "人工智能现已具备自主开发推理硬件的能力",
@@ -774,7 +1089,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
       "published_at": "2026-10-06T16:03:49Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "title_en": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "title_zh": "嵌入 Gemma 2",
@@ -789,7 +1104,7 @@
       "url": "https://worrydream.com/EarlyHistoryOfSmalltalk",
       "published_at": "2026-10-06T15:19:57Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "The Early History of Smalltalk (1993)",
       "title_en": "The Early History of Smalltalk (1993)",
       "title_zh": "《Smalltalk的早期历史》（1993）",
@@ -804,7 +1119,7 @@
       "url": "https://github.com/longsurf-ai/openchart",
       "published_at": "2026-10-06T15:16:45Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "title_en": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
       "title_zh": "Show HN: OpenChart——一款开源的TradingView替代品，配备专属AI助手",
@@ -819,7 +1134,7 @@
       "url": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand",
       "published_at": "2026-10-06T14:45:02Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Vibecoding isn't as fun as writing code by hand",
       "title_en": "Vibecoding isn't as fun as writing code by hand",
       "title_zh": "Vibecoding 没有手动编写代码那么有趣",
@@ -834,11 +1149,11 @@
       "url": "https://survey.stackoverflow.co/2026",
       "published_at": "2026-10-06T14:22:57Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Developer Survey 2026",
       "title_en": "Developer Survey 2026",
-      "title_zh": null,
-      "title_bilingual": "Developer Survey 2026"
+      "title_zh": "2026 年开发者调查",
+      "title_bilingual": "2026 年开发者调查 / Developer Survey 2026"
     },
     {
       "id": "8fd442ec946fc92bab704f4736616f8e8f818ddd",
@@ -849,11 +1164,11 @@
       "url": "https://peterszentkiralyi.eu/darkplug",
       "published_at": "2026-10-06T13:58:07Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
       "title_en": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-      "title_zh": null,
-      "title_bilingual": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer"
+      "title_zh": "Show HN：我将 iPhone 和 20 美元的智能插头变成了光圈定时器",
+      "title_bilingual": "Show HN：我将 iPhone 和 20 美元的智能插头变成了光圈定时器 / Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer"
     },
     {
       "id": "82f44131336313e52cfd03b640567644a37f5eee",
@@ -864,7 +1179,7 @@
       "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap",
       "published_at": "2026-10-06T13:55:37Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
       "title_en": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
       "title_zh": "Tapo（Rust/Python 库）现已支持 TP-Link 的 TPAP 协议",
@@ -879,11 +1194,11 @@
       "url": "https://humanprogress.org/screens-arent-destroying-young-minds-i-should-know",
       "published_at": "2026-10-06T13:51:08Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Screens Aren't Destroying Young Minds. I Should Know",
       "title_en": "Screens Aren't Destroying Young Minds. I Should Know",
-      "title_zh": null,
-      "title_bilingual": "Screens Aren't Destroying Young Minds. I Should Know"
+      "title_zh": "屏幕并没有摧毁年轻人的思想。我应该知道",
+      "title_bilingual": "屏幕并没有摧毁年轻人的思想。我应该知道 / Screens Aren't Destroying Young Minds. I Should Know"
     },
     {
       "id": "c6a13488b403eb7a0aaf39a32171272633f3a4f6",
@@ -894,11 +1209,11 @@
       "url": "https://jotbus.com/",
       "published_at": "2026-10-06T13:45:04Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
       "title_en": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
-      "title_zh": null,
-      "title_bilingual": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents"
+      "title_zh": "Show HN：Jotbus – 编码代理的共享加密暂存器",
+      "title_bilingual": "Show HN：Jotbus – 编码代理的共享加密暂存器 / Show HN: Jotbus – a shared encrypted scratchpad for coding agents"
     },
     {
       "id": "729e69713b2603031235db3ad2597ce6ed596c31",
@@ -909,26 +1224,26 @@
       "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
       "published_at": "2026-10-06T13:42:56Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Oracle Triggered the Implosion of the AI Bubble",
       "title_en": "Oracle Triggered the Implosion of the AI Bubble",
-      "title_zh": null,
-      "title_bilingual": "Oracle Triggered the Implosion of the AI Bubble"
+      "title_zh": "甲骨文引发了人工智能泡沫的破裂",
+      "title_bilingual": "甲骨文引发了人工智能泡沫的破裂 / Oracle Triggered the Implosion of the AI Bubble"
     },
     {
       "id": "0b560b11dacd482935335b57ec7d2f96c5aa75ee",
       "site_id": "zeli",
       "site_name": "Zeli",
       "source": "Hacker News · 24h最热",
-      "title": "What Is Codemode",
+      "title": "What is Codemode",
       "url": "https://lucumr.pocoo.org/2026/10/6/codemode",
       "published_at": "2026-10-06T13:41:03Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "What Is Codemode",
-      "title_en": "What Is Codemode",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
+      "title_original": "What is Codemode",
+      "title_en": "What is Codemode",
       "title_zh": "什么是代码模式",
-      "title_bilingual": "什么是代码模式 / What Is Codemode"
+      "title_bilingual": "什么是代码模式 / What is Codemode"
     },
     {
       "id": "e7e2a59b2eff889023e0d1dbb23e1195f602d382",
@@ -939,11 +1254,11 @@
       "url": "https://www.parseable.com/",
       "published_at": "2026-10-06T13:30:50Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
       "title_en": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-      "title_zh": null,
-      "title_bilingual": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min"
+      "title_zh": "Show HN：Parseable，一个开放的可观测性数据湖，每分钟处理 100M 时间序列",
+      "title_bilingual": "Show HN：Parseable，一个开放的可观测性数据湖，每分钟处理 100M 时间序列 / Show HN: Parseable, an open observability datalake, handles 100M time-series/min"
     },
     {
       "id": "7f1b9c93603f92556e5345281a6250da21523e03",
@@ -954,7 +1269,7 @@
       "url": "https://mistral.ai/news/mistral-large-4",
       "published_at": "2026-10-06T13:25:50Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Mistral Large 4: \"Le Chonk\"",
       "title_en": "Mistral Large 4: \"Le Chonk\"",
       "title_zh": null,
@@ -969,11 +1284,11 @@
       "url": "https://mistral.ai/news/mistral-large-4/",
       "published_at": "2026-10-06T13:15:49Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Mistral Large 4",
       "title_en": "Mistral Large 4",
-      "title_zh": null,
-      "title_bilingual": "Mistral Large 4"
+      "title_zh": "米斯特拉尔大 4",
+      "title_bilingual": "米斯特拉尔大 4 / Mistral Large 4"
     },
     {
       "id": "1658be895e9ad055e6b0c161b0ce1649cd9f163d",
@@ -999,11 +1314,11 @@
       "url": "https://twitter.com/MistralAI/status/2107456586813730854",
       "published_at": "2026-10-06T13:06:16Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Mistral Large 4",
       "title_en": "Mistral Large 4",
-      "title_zh": null,
-      "title_bilingual": "Mistral Large 4"
+      "title_zh": "米斯特拉尔大 4",
+      "title_bilingual": "米斯特拉尔大 4 / Mistral Large 4"
     },
     {
       "id": "6d60014401dd2339cebb4126a639b60b07ddf1f6",
@@ -1014,7 +1329,7 @@
       "url": "https://mastodon.social/@bagder/117392573268225646",
       "published_at": "2026-10-06T13:06:00Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
       "title_en": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
       "title_zh": "两个针对 arm64 的编译错误在 curl 中引发了安全漏洞",
@@ -1029,11 +1344,11 @@
       "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy",
       "published_at": "2026-10-06T13:05:26Z",
       "first_seen_at": "2026-10-06T16:30:28.123Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Mathematics of Geothermal Energy",
       "title_en": "Mathematics of Geothermal Energy",
-      "title_zh": null,
-      "title_bilingual": "Mathematics of Geothermal Energy"
+      "title_zh": "地热能数学",
+      "title_bilingual": "地热能数学 / Mathematics of Geothermal Energy"
     },
     {
       "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
@@ -1044,11 +1359,11 @@
       "url": "https://www.erdosproblems.com/forum/thread/blog:9",
       "published_at": "2026-10-06T12:53:58Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
       "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "title_zh": null,
-      "title_bilingual": "Erdosproblems.com Succumbs to the AI Onslaught"
+      "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
+      "title_bilingual": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught"
     },
     {
       "id": "9b712671fa1d1e293ac60020ab4a67e73e356fc5",
@@ -1059,7 +1374,7 @@
       "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire",
       "published_at": "2026-10-06T12:45:49Z",
       "first_seen_at": "2026-10-06T22:21:54.174Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "Meta’s Muse is an adorable privacy and security dumpster fire",
       "title_en": "Meta’s Muse is an adorable privacy and security dumpster fire",
       "title_zh": "Meta的“Muse”是一款在隐私和安全方面一团糟却又惹人喜爱的应用",
@@ -1107,8 +1422,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "Show HN: MailAccess – the true Email OSINT framework",
       "title_en": "Show HN: MailAccess – the true Email OSINT framework",
-      "title_zh": null,
-      "title_bilingual": "Show HN: MailAccess – the true Email OSINT framework"
+      "title_zh": "Show HN：MailAccess – 真正的电子邮件 OSINT 框架",
+      "title_bilingual": "Show HN：MailAccess – 真正的电子邮件 OSINT 框架 / Show HN: MailAccess – the true Email OSINT framework"
     },
     {
       "id": "8584a5627549c2d57d69c0d7892076b3de903bd3",
@@ -1257,8 +1572,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "ASOS app users receive push notifications apparently sent by hackers",
       "title_en": "ASOS app users receive push notifications apparently sent by hackers",
-      "title_zh": null,
-      "title_bilingual": "ASOS app users receive push notifications apparently sent by hackers"
+      "title_zh": "ASOS 应用程序用户收到显然是黑客发送的推送通知",
+      "title_bilingual": "ASOS 应用程序用户收到显然是黑客发送的推送通知 / ASOS app users receive push notifications apparently sent by hackers"
     },
     {
       "id": "d84574286cf09304ba52700c35b023506daa5261",
@@ -1302,8 +1617,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "Germany: Ex-spy chief arrested for espionage",
       "title_en": "Germany: Ex-spy chief arrested for espionage",
-      "title_zh": null,
-      "title_bilingual": "Germany: Ex-spy chief arrested for espionage"
+      "title_zh": "德国：前间谍头子因间谍活动被捕",
+      "title_bilingual": "德国：前间谍头子因间谍活动被捕 / Germany: Ex-spy chief arrested for espionage"
     },
     {
       "id": "af8cdcf6c9121a386f80f96712e2d86d9cbc7a78",
@@ -1332,8 +1647,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "German Bundeswehr uses AI to screen applicants for right-wing extremism",
       "title_en": "German Bundeswehr uses AI to screen applicants for right-wing extremism",
-      "title_zh": null,
-      "title_bilingual": "German Bundeswehr uses AI to screen applicants for right-wing extremism"
+      "title_zh": "德国联邦国防军使用人工智能筛选申请人是否属于右翼极端主义",
+      "title_bilingual": "德国联邦国防军使用人工智能筛选申请人是否属于右翼极端主义 / German Bundeswehr uses AI to screen applicants for right-wing extremism"
     },
     {
       "id": "ebb89577c62f2d7cbaa8038a0b58229854089143",
@@ -1362,8 +1677,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
       "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "title_zh": null,
-      "title_bilingual": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI"
+      "title_zh": "Anthropic 订阅提供的价值比 OpenAI 高 5 倍以上",
+      "title_bilingual": "Anthropic 订阅提供的价值比 OpenAI 高 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI"
     },
     {
       "id": "83d0a56c2aa12ee7bec654ff4aac995e4e120ea4",
@@ -1392,8 +1707,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "Autolith: A self-modifiable general purpose Lisp AI agent",
       "title_en": "Autolith: A self-modifiable general purpose Lisp AI agent",
-      "title_zh": null,
-      "title_bilingual": "Autolith: A self-modifiable general purpose Lisp AI agent"
+      "title_zh": "Autolith：可自我修改的通用 Lisp AI 代理",
+      "title_bilingual": "Autolith：可自我修改的通用 Lisp AI 代理 / Autolith: A self-modifiable general purpose Lisp AI agent"
     },
     {
       "id": "3cfffb54a0aac014c11fa30672f18a2a02a9563e",
@@ -1407,8 +1722,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "The AI boom is making the cheapest smartphones disappear",
       "title_en": "The AI boom is making the cheapest smartphones disappear",
-      "title_zh": null,
-      "title_bilingual": "The AI boom is making the cheapest smartphones disappear"
+      "title_zh": "人工智能的繁荣正在让最便宜的智能手机消失",
+      "title_bilingual": "人工智能的繁荣正在让最便宜的智能手机消失 / The AI boom is making the cheapest smartphones disappear"
     },
     {
       "id": "88eba3301501460811daabd378e790670af116d2",
@@ -1437,8 +1752,8 @@
       "last_seen_at": "2026-10-07T04:28:28.366Z",
       "title_original": "Subquadratic 3SUM and Subcubic APSP",
       "title_en": "Subquadratic 3SUM and Subcubic APSP",
-      "title_zh": null,
-      "title_bilingual": "Subquadratic 3SUM and Subcubic APSP"
+      "title_zh": "亚二次 3SUM 和亚三次 APSP",
+      "title_bilingual": "亚二次 3SUM 和亚三次 APSP / Subquadratic 3SUM and Subcubic APSP"
     },
     {
       "id": "4a0136efbceab2d11335e4f6e6d391451a7645a1",
@@ -1467,8 +1782,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "A single license fee of £100k.00",
       "title_en": "A single license fee of £100k.00",
-      "title_zh": null,
-      "title_bilingual": "A single license fee of £100k.00"
+      "title_zh": "单一许可费为 £100k.00",
+      "title_bilingual": "单一许可费为 £100k.00 / A single license fee of £100k.00"
     },
     {
       "id": "486bb9950f5df6fabd263c3402eb9da95c231f4a",
@@ -1512,8 +1827,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Use GNU Emacs the Plain Text Computing Environment",
       "title_en": "Use GNU Emacs the Plain Text Computing Environment",
-      "title_zh": null,
-      "title_bilingual": "Use GNU Emacs the Plain Text Computing Environment"
+      "title_zh": "使用 GNU Emacs 纯文本计算环境",
+      "title_bilingual": "使用 GNU Emacs 纯文本计算环境 / Use GNU Emacs the Plain Text Computing Environment"
     },
     {
       "id": "0a9e31120fa190957c9368c698307f7db34b8570",
@@ -1557,8 +1872,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
       "title_en": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-      "title_zh": null,
-      "title_bilingual": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage"
+      "title_zh": "维基百科运营商表示 OpenAI 的“流氓”机器人可能与 5 月份的一次服务中断有关",
+      "title_bilingual": "维基百科运营商表示 OpenAI 的“流氓”机器人可能与 5 月份的一次服务中断有关 / Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage"
     },
     {
       "id": "ba50e748d2535143754fb0271be5c10431b91c0e",
@@ -1572,8 +1887,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
       "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
-      "title_zh": null,
-      "title_bilingual": "AI tutoring with Khanmigo in a two-year school experiment"
+      "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+      "title_bilingual": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment"
     },
     {
       "id": "bfe615a8217c191ca12cf268dbc843fe72bd3e61",
@@ -1587,8 +1902,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Samon: Designing a Zen Garden Raking Puzzle",
       "title_en": "Samon: Designing a Zen Garden Raking Puzzle",
-      "title_zh": null,
-      "title_bilingual": "Samon: Designing a Zen Garden Raking Puzzle"
+      "title_zh": "Samon：设计禅宗花园耙拼图",
+      "title_bilingual": "Samon：设计禅宗花园耙拼图 / Samon: Designing a Zen Garden Raking Puzzle"
     },
     {
       "id": "f5b9da875683a613e0aa62ddbb243c5c8fae4ea4",
@@ -1602,8 +1917,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Whistleblower who flagged Lutnick's links to Epstein dies",
       "title_en": "Whistleblower who flagged Lutnick's links to Epstein dies",
-      "title_zh": null,
-      "title_bilingual": "Whistleblower who flagged Lutnick's links to Epstein dies"
+      "title_zh": "举报卢特尼克与爱泼斯坦的联系的举报人去世",
+      "title_bilingual": "举报卢特尼克与爱泼斯坦的联系的举报人去世 / Whistleblower who flagged Lutnick's links to Epstein dies"
     },
     {
       "id": "e0d5ac6ef2737e32583abb5723a83ec2f279eb85",
@@ -1632,8 +1947,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Worth Building",
       "title_en": "Worth Building",
-      "title_zh": null,
-      "title_bilingual": "Worth Building"
+      "title_zh": "值得建设",
+      "title_bilingual": "值得建设 / Worth Building"
     },
     {
       "id": "1e48d339cec4df3243216dc58f923f3d5909b7a8",
@@ -1692,8 +2007,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Toki Pona",
       "title_en": "Toki Pona",
-      "title_zh": null,
-      "title_bilingual": "Toki Pona"
+      "title_zh": "笔记本斧",
+      "title_bilingual": "笔记本斧 / Toki Pona"
     },
     {
       "id": "ab981f7d489bf14f9cfc4461678c1115536defd1",
@@ -1707,8 +2022,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Global Solar Atlas: summary of solar power potential globally",
       "title_en": "Global Solar Atlas: summary of solar power potential globally",
-      "title_zh": null,
-      "title_bilingual": "Global Solar Atlas: summary of solar power potential globally"
+      "title_zh": "全球太阳能地图集：全球太阳能潜力总结",
+      "title_bilingual": "全球太阳能地图集：全球太阳能潜力总结 / Global Solar Atlas: summary of solar power potential globally"
     },
     {
       "id": "81113e0478c4958f097262703c3deb9d88b80c6f",
@@ -1722,8 +2037,8 @@
       "last_seen_at": "2026-10-06T22:21:54.174Z",
       "title_original": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
       "title_en": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-      "title_zh": null,
-      "title_bilingual": "Learning Jazz Pianist Style with Cross-Attention Conditioning"
+      "title_zh": "通过交叉注意力调节学习爵士钢琴家风格",
+      "title_bilingual": "通过交叉注意力调节学习爵士钢琴家风格 / Learning Jazz Pianist Style with Cross-Attention Conditioning"
     },
     {
       "id": "58291611562a3503ea84d6f0cce8d3b9a93cc681",
@@ -1782,8 +2097,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Engineer says Claude Code has made his job \"soul-sucking\"",
       "title_en": "Engineer says Claude Code has made his job \"soul-sucking\"",
-      "title_zh": null,
-      "title_bilingual": "Engineer says Claude Code has made his job \"soul-sucking\""
+      "title_zh": "工程师称克劳德·科德让他的工作“吸走了灵魂”",
+      "title_bilingual": "工程师称克劳德·科德让他的工作“吸走了灵魂” / Engineer says Claude Code has made his job \"soul-sucking\""
     },
     {
       "id": "74ad2cd6c832176bcf8316d929fd8e3221519141",
@@ -1797,8 +2112,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Graphical UI",
       "title_en": "Graphical UI",
-      "title_zh": null,
-      "title_bilingual": "Graphical UI"
+      "title_zh": "图形用户界面",
+      "title_bilingual": "图形用户界面 / Graphical UI"
     },
     {
       "id": "73ddc00d4e4bc55eb3cef4f22c693bcfbf1a04ae",
@@ -1827,8 +2142,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Turkey's 20B ponzi scheme collapsed",
       "title_en": "Turkey's 20B ponzi scheme collapsed",
-      "title_zh": null,
-      "title_bilingual": "Turkey's 20B ponzi scheme collapsed"
+      "title_zh": "土耳其20B庞氏骗局失败",
+      "title_bilingual": "土耳其20B庞氏骗局失败 / Turkey's 20B ponzi scheme collapsed"
     },
     {
       "id": "d0e83a029d6c5e7b0c07276bf1b0656142a5749a",
@@ -1842,8 +2157,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "CIA Report Warns Israel Could Head Toward Civil War, Total Collapse",
       "title_en": "CIA Report Warns Israel Could Head Toward Civil War, Total Collapse",
-      "title_zh": null,
-      "title_bilingual": "CIA Report Warns Israel Could Head Toward Civil War, Total Collapse"
+      "title_zh": "中央情报局报告警告以色列可能走向内战、全面崩溃",
+      "title_bilingual": "中央情报局报告警告以色列可能走向内战、全面崩溃 / CIA Report Warns Israel Could Head Toward Civil War, Total Collapse"
     },
     {
       "id": "f6de9d786acd54bba5133f7b491e15e12c2fe0c2",
@@ -1902,8 +2217,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "How much should we worry about the pneumonic plague lableak in Siberia?",
       "title_en": "How much should we worry about the pneumonic plague lableak in Siberia?",
-      "title_zh": null,
-      "title_bilingual": "How much should we worry about the pneumonic plague lableak in Siberia?"
+      "title_zh": "我们应该对西伯利亚的拉布拉克肺鼠疫有多担心？",
+      "title_bilingual": "我们应该对西伯利亚的拉布拉克肺鼠疫有多担心？ / How much should we worry about the pneumonic plague lableak in Siberia?"
     },
     {
       "id": "5acb4e2d5f6123e2fbc4f7585807165c7431a685",
@@ -1917,8 +2232,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "A third way of using Linux",
       "title_en": "A third way of using Linux",
-      "title_zh": null,
-      "title_bilingual": "A third way of using Linux"
+      "title_zh": "使用Linux的第三种方式",
+      "title_bilingual": "使用Linux的第三种方式 / A third way of using Linux"
     },
     {
       "id": "b9cce64702b428ed6b77b6eb564b9ff76d066eb2",
@@ -1947,8 +2262,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "The mental health of young men is declining. Experts warn it could get worse",
       "title_en": "The mental health of young men is declining. Experts warn it could get worse",
-      "title_zh": null,
-      "title_bilingual": "The mental health of young men is declining. Experts warn it could get worse"
+      "title_zh": "年轻人的心理健康状况正在下降。专家警告情况可能会变得更糟",
+      "title_bilingual": "年轻人的心理健康状况正在下降。专家警告情况可能会变得更糟 / The mental health of young men is declining. Experts warn it could get worse"
     },
     {
       "id": "0622eb5bd45dbe9119cb6b4af5eead50e4627474",
@@ -1962,8 +2277,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "After bankruptcy, he was banned from betting sites. Then he discovered Kalshi",
       "title_en": "After bankruptcy, he was banned from betting sites. Then he discovered Kalshi",
-      "title_zh": null,
-      "title_bilingual": "After bankruptcy, he was banned from betting sites. Then he discovered Kalshi"
+      "title_zh": "破产后，他被禁止进入博彩网站。然后他发现了卡尔希",
+      "title_bilingual": "破产后，他被禁止进入博彩网站。然后他发现了卡尔希 / After bankruptcy, he was banned from betting sites. Then he discovered Kalshi"
     },
     {
       "id": "3006dc6b912c3335d76bb9c1d75d2bf8208bd164",
@@ -1977,8 +2292,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "AI Companies Are Parasites",
       "title_en": "AI Companies Are Parasites",
-      "title_zh": null,
-      "title_bilingual": "AI Companies Are Parasites"
+      "title_zh": "人工智能公司是寄生虫",
+      "title_bilingual": "人工智能公司是寄生虫 / AI Companies Are Parasites"
     },
     {
       "id": "d487cf23bfdab753f4baf06898884a47a2dac3d8",
@@ -1992,8 +2307,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One",
       "title_en": "OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One",
-      "title_zh": null,
-      "title_bilingual": "OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One"
+      "title_zh": "OpenSSH 适用于每台 Mac、Linux 服务器和 Windows。它的创造者不相信任何人",
+      "title_bilingual": "OpenSSH 适用于每台 Mac、Linux 服务器和 Windows。它的创造者不相信任何人 / OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One"
     },
     {
       "id": "399df5f8c40f088bab663afc3fb0e262b22cfe28",
@@ -2037,8 +2352,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
       "title_en": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "title_zh": null,
-      "title_bilingual": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't"
+      "title_zh": "罗莎琳德·富兰克林 (Rosalind Franklin) 为何错过了她标志性 DNA 图像中的螺旋？她没有",
+      "title_bilingual": "罗莎琳德·富兰克林 (Rosalind Franklin) 为何错过了她标志性 DNA 图像中的螺旋？她没有 / How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't"
     },
     {
       "id": "5fa57aaea4d886f9626e76a1fd785ada30e70787",
@@ -2067,8 +2382,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Questions for believers in AI consciousness",
       "title_en": "Questions for believers in AI consciousness",
-      "title_zh": null,
-      "title_bilingual": "Questions for believers in AI consciousness"
+      "title_zh": "人工智能意识信徒的问题",
+      "title_bilingual": "人工智能意识信徒的问题 / Questions for believers in AI consciousness"
     },
     {
       "id": "646f245ab483dee96929bdc5826833cd4aacd2d9",
@@ -2082,8 +2397,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "A Series of Unfortunate Events for OpenAI Users",
       "title_en": "A Series of Unfortunate Events for OpenAI Users",
-      "title_zh": null,
-      "title_bilingual": "A Series of Unfortunate Events for OpenAI Users"
+      "title_zh": "OpenAI 用户的一系列不幸事件",
+      "title_bilingual": "OpenAI 用户的一系列不幸事件 / A Series of Unfortunate Events for OpenAI Users"
     },
     {
       "id": "d5411dab1f092f647615dd21ce44e14a0a7ad309",
@@ -2112,8 +2427,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
       "title_en": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
-      "title_zh": null,
-      "title_bilingual": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland"
+      "title_zh": "Greenvolt 开始在波兰建造 600 MW/2.4 GWh BESS",
+      "title_bilingual": "Greenvolt 开始在波兰建造 600 MW/2.4 GWh BESS / Greenvolt begins building 600 MW/2.4 GWh BESS in Poland"
     },
     {
       "id": "6c8a5ea309a69dae60259523477215efd801e036",
@@ -2127,8 +2442,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Jiti – Grow a running Lisp application by talking to it",
       "title_en": "Jiti – Grow a running Lisp application by talking to it",
-      "title_zh": null,
-      "title_bilingual": "Jiti – Grow a running Lisp application by talking to it"
+      "title_zh": "Jiti – 通过与正在运行的 Lisp 应用程序交谈来扩展它",
+      "title_bilingual": "Jiti – 通过与正在运行的 Lisp 应用程序交谈来扩展它 / Jiti – Grow a running Lisp application by talking to it"
     },
     {
       "id": "d6fefd2102d03f54722de38e855afe0ab335e84d",
@@ -2172,8 +2487,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "Google Accused of Felling 300 Hectares of Forest for a Finnish Data Centre",
       "title_en": "Google Accused of Felling 300 Hectares of Forest for a Finnish Data Centre",
-      "title_zh": null,
-      "title_bilingual": "Google Accused of Felling 300 Hectares of Forest for a Finnish Data Centre"
+      "title_zh": "谷歌被指控为芬兰数据中心砍伐 300 公顷森林",
+      "title_bilingual": "谷歌被指控为芬兰数据中心砍伐 300 公顷森林 / Google Accused of Felling 300 Hectares of Forest for a Finnish Data Centre"
     },
     {
       "id": "98b5a992aaf298b696b83b906b1799dd53890571",
@@ -2202,8 +2517,8 @@
       "last_seen_at": "2026-10-06T16:30:28.123Z",
       "title_original": "DigitalOcean Ends Open Source Credits Program",
       "title_en": "DigitalOcean Ends Open Source Credits Program",
-      "title_zh": null,
-      "title_bilingual": "DigitalOcean Ends Open Source Credits Program"
+      "title_zh": "DigitalOcean 结束开源积分计划",
+      "title_bilingual": "DigitalOcean 结束开源积分计划 / DigitalOcean Ends Open Source Credits Program"
     },
     {
       "id": "18bc495db7b880a5004338e27c968c1b3fbd34a6",
@@ -2277,8 +2592,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "GPT-6 Astra cracks 217-year-old Napoleonic code in six hours",
       "title_en": "GPT-6 Astra cracks 217-year-old Napoleonic code in six hours",
-      "title_zh": null,
-      "title_bilingual": "GPT-6 Astra cracks 217-year-old Napoleonic code in six hours"
+      "title_zh": "GPT-6 Astra 在 6 小时内破解了 217 年的拿破仑密码",
+      "title_bilingual": "GPT-6 Astra 在 6 小时内破解了 217 年的拿破仑密码 / GPT-6 Astra cracks 217-year-old Napoleonic code in six hours"
     },
     {
       "id": "3cd4583d3e32883a1cf650a06859750c992cee67",
@@ -2292,8 +2607,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "uBlock Origin Lite is back on Firefox add-ons",
       "title_en": "uBlock Origin Lite is back on Firefox add-ons",
-      "title_zh": null,
-      "title_bilingual": "uBlock Origin Lite is back on Firefox add-ons"
+      "title_zh": "uBlock Origin Lite 重返 Firefox 附加组件",
+      "title_bilingual": "uBlock Origin Lite 重返 Firefox 附加组件 / uBlock Origin Lite is back on Firefox add-ons"
     },
     {
       "id": "19e4dffb4d52f051fd59553318f09934a17b5d79",
@@ -2322,8 +2637,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
       "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
-      "title_zh": null,
-      "title_bilingual": "Florida woman arrested for allegedly making threats in an AI chat"
+      "title_zh": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕",
+      "title_bilingual": "佛罗里达州女子因涉嫌在人工智能聊天中发出威胁而被捕 / Florida woman arrested for allegedly making threats in an AI chat"
     },
     {
       "id": "dda20057e4218e0399d32ff1cb411451bb1b3865",
@@ -2352,8 +2667,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
       "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
-      "title_zh": null,
-      "title_bilingual": "People are asking ChatGPT to help them decide how to vote in the midterms"
+      "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+      "title_bilingual": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms"
     },
     {
       "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
@@ -2382,8 +2697,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "Mosquitoes Are a Choice",
       "title_en": "Mosquitoes Are a Choice",
-      "title_zh": null,
-      "title_bilingual": "Mosquitoes Are a Choice"
+      "title_zh": "蚊子是一种选择",
+      "title_bilingual": "蚊子是一种选择 / Mosquitoes Are a Choice"
     },
     {
       "id": "a1fa2d3218b8c7efa0261d77776d31842f662ba5",
@@ -2427,8 +2742,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",
       "title_en": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world",
-      "title_zh": null,
-      "title_bilingual": "Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world"
+      "title_zh": "Show HN：Pumpkins.sh – 向世界认领、雕刻并向世界展示南瓜",
+      "title_bilingual": "Show HN：Pumpkins.sh – 向世界认领、雕刻并向世界展示南瓜 / Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world"
     },
     {
       "id": "5b4d4d1a38ba055f548f24107518cc061b253374",
@@ -2532,8 +2847,8 @@
       "last_seen_at": "2026-10-06T08:35:26.865Z",
       "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
       "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-      "title_zh": null,
-      "title_bilingual": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]"
+      "title_zh": "乔纳森·海特：人工智能是“教育的中子弹”[视频]",
+      "title_bilingual": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]"
     },
     {
       "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
@@ -5187,8 +5502,8 @@
       "last_seen_at": "2026-10-03T17:47:05.499Z",
       "title_original": "\"The only intuitive interface is the nipple\" (2012)",
       "title_en": "\"The only intuitive interface is the nipple\" (2012)",
-      "title_zh": "唯一直观的界面就是乳头",
-      "title_bilingual": "唯一直观的界面就是乳头 / \"The only intuitive interface is the nipple\" (2012)"
+      "title_zh": null,
+      "title_bilingual": "\"The only intuitive interface is the nipple\" (2012)"
     },
     {
       "id": "ff3aade240592f64de3a396edafadd73b897fb27",
@@ -8709,7 +9024,7 @@
       "url": "https://www.aibase.com/news/31445",
       "published_at": "2026-09-30T16:15:52.109Z",
       "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
       "title_en": null,
       "title_zh": "苏姿丰下月访韩剑指HBM4，三星有望跻身AMD AI加速器内存供应链",
@@ -8724,7 +9039,7 @@
       "url": "https://www.aibase.com/news/31444",
       "published_at": "2026-09-30T16:15:52.109Z",
       "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
       "title_en": null,
       "title_zh": "微软联手哈佛MIT端出生物学世界模型Project Quine，一个周末筛出抗癌候选物",
@@ -8739,7 +9054,7 @@
       "url": "https://www.aibase.com/news/31443",
       "published_at": "2026-09-30T16:15:52.109Z",
       "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
       "title_en": null,
       "title_zh": "沃尔玛向门店 AI 海报下\"禁令\"：ChatGPT 生成的招牌一律不许挂",
@@ -8754,7 +9069,7 @@
       "url": "https://www.aibase.com/news/31442",
       "published_at": "2026-09-30T16:15:52.109Z",
       "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
       "title_en": null,
       "title_zh": "LG 联手微软秀智能家居语音助手：可中途\"插话\"，年内登陆 ThinQ ON",
@@ -8769,7 +9084,7 @@
       "url": "https://www.aibase.com/news/31440",
       "published_at": "2026-09-30T16:15:52.109Z",
       "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态",
       "title_en": null,
       "title_zh": "豆包AI个人助手独立App实锤：定名“小豆”剑指全场景智能生态",
@@ -8784,7 +9099,7 @@
       "url": "https://www.aibase.com/news/31439",
       "published_at": "2026-09-30T16:12:52.109Z",
       "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
+      "last_seen_at": "2026-10-07T12:42:24.595Z",
       "title_original": "OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”",
       "title_en": null,
       "title_zh": "OpenAI与红帽等联合推进OCE1.0研发，打造面向AI代理的“企业级Kubernetes”",
@@ -9119,486 +9434,6 @@
       "title_en": "The last time my family was replaced by technology",
       "title_zh": "上次我的家人被科技取代时",
       "title_bilingual": "上次我的家人被科技取代时 / The last time my family was replaced by technology"
-    },
-    {
-      "id": "fb4e7213415f268ef68e6b49557a8d1122ce302e",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Dumb servers, smart clients: Distributing OS images with Quarry",
-      "url": "https://amutable.com/blog/distributing-images-quarry",
-      "published_at": "2026-09-30T12:17:31Z",
-      "first_seen_at": "2026-10-01T01:04:27.688Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Dumb servers, smart clients: Distributing OS images with Quarry",
-      "title_en": "Dumb servers, smart clients: Distributing OS images with Quarry",
-      "title_zh": "“哑服务器，智能客户端”：使用 Quarry 分发图片",
-      "title_bilingual": "“哑服务器，智能客户端”：使用 Quarry 分发图片 / Dumb servers, smart clients: Distributing OS images with Quarry"
-    },
-    {
-      "id": "1c438c5bc66cb92b3034dd56cdf9a09d6ec4a9b5",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Load balancing and failover inside Bunny CDN",
-      "url": "https://bunny.net/blog/introducing-bunny-cdn-load-balancer-make-your-origins-work-together",
-      "published_at": "2026-09-30T12:09:46Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Load balancing and failover inside Bunny CDN",
-      "title_en": "Load balancing and failover inside Bunny CDN",
-      "title_zh": "Bunny CDN 内的负载平衡和故障转移",
-      "title_bilingual": "Bunny CDN 内的负载平衡和故障转移 / Load balancing and failover inside Bunny CDN"
-    },
-    {
-      "id": "ffc9aa11163e074decb10e1eb4d69ec7177f9efe",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Most data centers refusing to say how much water, electricity they use",
-      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-      "published_at": "2026-09-30T10:49:32Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Most data centers refusing to say how much water, electricity they use",
-      "title_en": "Most data centers refusing to say how much water, electricity they use",
-      "title_zh": "大多数数据中心拒绝透露其用水量和用电量",
-      "title_bilingual": "大多数数据中心拒绝透露其用水量和用电量 / Most data centers refusing to say how much water, electricity they use"
-    },
-    {
-      "id": "f58e61f5c9e10c2ab6b6bd14b6ee88605131dd44",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
-      "url": "https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models",
-      "published_at": "2026-09-30T10:28:31Z",
-      "first_seen_at": "2026-09-30T21:54:17.117Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
-      "title_en": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
-      "title_zh": "“苹果工程师”搭建GitHub AI酷刑室，给模型造成“痛苦”",
-      "title_bilingual": "“苹果工程师”搭建GitHub AI酷刑室，给模型造成“痛苦” / \"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models"
-    },
-    {
-      "id": "643434fd7ebced97d8167ba4d513d2be0f96d183",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-      "published_at": "2026-09-30T09:59:03Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "title_en": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-      "title_zh": "GPT-6.1 Sol 在短短 7 天后取代了 GPT-6 Sol，具有接近 Astra 的智能",
-      "title_bilingual": "GPT-6.1 Sol 在短短 7 天后取代了 GPT-6 Sol，具有接近 Astra 的智能 / GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence"
-    },
-    {
-      "id": "c4c37b477e3bd183722688688d43cbc54714be08",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "You said no MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp",
-      "published_at": "2026-09-30T09:55:23Z",
-      "first_seen_at": "2026-09-30T21:54:17.117Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "You said no MCP",
-      "title_en": "You said no MCP",
-      "title_zh": "Pi.dev：你说过不搞MCP",
-      "title_bilingual": "Pi.dev：你说过不搞MCP / You said no MCP"
-    },
-    {
-      "id": "e9b5b947dfd94748e580c498a3175cfd23027dd4",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Pi.dev: You Said No MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp",
-      "published_at": "2026-09-30T09:55:23Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-09-30T16:15:52.109Z",
-      "title_original": "Pi.dev: You Said No MCP",
-      "title_en": "Pi.dev: You Said No MCP",
-      "title_zh": "Pi.dev：你说过不搞MCP",
-      "title_bilingual": "Pi.dev：你说过不搞MCP / Pi.dev: You Said No MCP"
-    },
-    {
-      "id": "34a86c43a6c483fcafa36a1ef9cb970339d71449",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Israel-bound flight lands in Saudi Arabia after violent incident between pilots",
-      "url": "https://www.cnn.com/2026/09/30/world/live-news/dubai-israel-plane-flydubai-intl",
-      "published_at": "2026-09-30T09:54:12Z",
-      "first_seen_at": "2026-09-30T21:54:17.117Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Israel-bound flight lands in Saudi Arabia after violent incident between pilots",
-      "title_en": "Israel-bound flight lands in Saudi Arabia after violent incident between pilots",
-      "title_zh": "飞往以色列的航班在飞行员之间发生暴力事件后降落在沙特阿拉伯",
-      "title_bilingual": "飞往以色列的航班在飞行员之间发生暴力事件后降落在沙特阿拉伯 / Israel-bound flight lands in Saudi Arabia after violent incident between pilots"
-    },
-    {
-      "id": "f610811a8e9174924903ab109a5ded0d2c356da4",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Flydubai B38M, first officer under investigation for suspected suicide attempt",
-      "url": "https://avherald.com/h?article=5423fa17",
-      "published_at": "2026-09-30T09:42:45Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Flydubai B38M, first officer under investigation for suspected suicide attempt",
-      "title_en": "Flydubai B38M, first officer under investigation for suspected suicide attempt",
-      "title_zh": "Flydubai B38M，副机长因涉嫌自杀未遂接受调查",
-      "title_bilingual": "Flydubai B38M，副机长因涉嫌自杀未遂接受调查 / Flydubai B38M, first officer under investigation for suspected suicide attempt"
-    },
-    {
-      "id": "1108cb5ae2362053c86e4f10b00abc8474d80c1e",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-      "published_at": "2026-09-30T09:27:04Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "title_en": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "title_zh": "新加坡政府推出的约会应用采用了盖尔-沙普利稳定婚姻算法",
-      "title_bilingual": "新加坡政府推出的约会应用采用了盖尔-沙普利稳定婚姻算法 / Singapore govt dating app uses Gale-Shapley stable marriage algorithm"
-    },
-    {
-      "id": "45c6f868db4dbb9cfa0f1ccfb3e9e4456d0c182d",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Pentagon Influencer Called Liberal Women 'Pestilence' Who Will End Civilization",
-      "url": "https://www.wired.com/story/a-pentagon-influencer-called-liberal-women-a-pestilence-who-will-end-western-civilization",
-      "published_at": "2026-09-30T08:24:19Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T08:20:32.314Z",
-      "title_original": "Pentagon Influencer Called Liberal Women 'Pestilence' Who Will End Civilization",
-      "title_en": "Pentagon Influencer Called Liberal Women 'Pestilence' Who Will End Civilization",
-      "title_zh": "五角大楼影响者称自由女性为“瘟疫”，将终结文明",
-      "title_bilingual": "五角大楼影响者称自由女性为“瘟疫”，将终结文明 / Pentagon Influencer Called Liberal Women 'Pestilence' Who Will End Civilization"
-    },
-    {
-      "id": "b15ec128830995aa7ee3a179b50f7ad8e6e11a40",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
-      "url": "https://www.aibase.com/news/31438",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
-      "title_en": null,
-      "title_zh": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本",
-      "title_bilingual": "亏损超80亿、算力承诺546亿:Anthropic招股书揭开大模型顶流的真实账本"
-    },
-    {
-      "id": "51f97ec615e8f98a5ae70a26bf7f947b90f5223b",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
-      "url": "https://www.aibase.com/news/31437",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
-      "title_en": null,
-      "title_zh": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物",
-      "title_bilingual": "微软亮出生物学\"世界模型\"Project Quine：一个周末筛出抗癌候选物"
-    },
-    {
-      "id": "defab0a400a4c9a602dbb002a6da7c0603dcfc1d",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
-      "url": "https://www.aibase.com/news/31436",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
-      "title_en": null,
-      "title_zh": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置",
-      "title_bilingual": "《纽约时报》揭 OpenAI 安全黑洞：员工预警遭无视，GPT-6.1 Astra 被迫搁置"
-    },
-    {
-      "id": "6fb0fec1680a3c5821303056ce2ffece4f1b17c8",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
-      "url": "https://www.aibase.com/news/31435",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
-      "title_en": null,
-      "title_zh": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合",
-      "title_bilingual": "谷歌宣布向免费用户全面开放 Gemini Skills，Gems 功能将于 11 月完成历史性整合"
-    },
-    {
-      "id": "8ca3f0b148dc1f5e792c8f3bf2b5bfbf579fe883",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
-      "url": "https://www.aibase.com/news/31434",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
-      "title_en": null,
-      "title_zh": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天",
-      "title_bilingual": "微软研究院发布生物学“世界模型”Quine，药物筛选验证周期压缩至数天"
-    },
-    {
-      "id": "462ff8f0e7abc456490fa32a4f04374f18006fc6",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
-      "url": "https://www.aibase.com/news/31433",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
-      "title_en": null,
-      "title_zh": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口",
-      "title_bilingual": "豆包AI再升级:一站式搞定出行全流程，剑指生活服务入口"
-    },
-    {
-      "id": "4236c13677e945b950afc5ec5b7246fe7aebe6a0",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力",
-      "url": "https://www.aibase.com/news/31432",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力",
-      "title_en": null,
-      "title_zh": "Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力",
-      "title_bilingual": "Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力"
-    },
-    {
-      "id": "412b4af261e02411942a663f47583d70c4e3472a",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏",
-      "url": "https://www.aibase.com/news/31431",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏",
-      "title_en": null,
-      "title_zh": "OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏",
-      "title_bilingual": "OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏"
-    },
-    {
-      "id": "43ad85e63502e35ede2b6ff3be78d5567dd2ab17",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
-      "url": "https://www.aibase.com/news/31430",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
-      "title_en": null,
-      "title_zh": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
-      "title_bilingual": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议"
-    },
-    {
-      "id": "b6976557c25e2d85a29093393ca4e8a46efd37bc",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
-      "url": "https://www.aibase.com/news/31429",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
-      "title_en": null,
-      "title_zh": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%",
-      "title_bilingual": "麦当劳在美规模化部署AI动态定价引擎，同城门店最高价差达21%"
-    },
-    {
-      "id": "a8b2a1d9da5a860d642dc928989c3b93e0ca4830",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-      "url": "https://www.aibase.com/news/31428",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-      "title_en": null,
-      "title_zh": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-      "title_bilingual": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合"
-    },
-    {
-      "id": "c107856c3678f799cb711410b3c67c58092e0e27",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐",
-      "url": "https://www.aibase.com/news/31427",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐",
-      "title_en": null,
-      "title_zh": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐",
-      "title_bilingual": "OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐"
-    },
-    {
-      "id": "eb3f9c43d1733147d62beb47e79bfb764df20d03",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测",
-      "url": "https://www.aibase.com/news/31426",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测",
-      "title_en": null,
-      "title_zh": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测",
-      "title_bilingual": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测"
-    },
-    {
-      "id": "ea799e5e54540975dfc1b9b52fa3c1827ff29b49",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化",
-      "url": "https://www.aibase.com/news/31425",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-07T04:28:28.366Z",
-      "title_original": "美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化",
-      "title_en": null,
-      "title_zh": "美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化",
-      "title_bilingual": "美议员抛 AI 重磅法案：没政府护栏，模型不许自我进化"
-    },
-    {
-      "id": "a6d345d72c0fc503a454fb28b743e259498ea246",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年",
-      "url": "https://www.aibase.com/news/31424",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-09-30T08:01:50.748Z",
-      "title_original": "划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年",
-      "title_en": null,
-      "title_zh": "划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年",
-      "title_bilingual": "划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年"
-    },
-    {
-      "id": "7555dc8479cf8eb994b64c24041003bc75ba6c24",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表",
-      "url": "https://www.aibase.com/news/31423",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-09-30T08:01:50.748Z",
-      "title_original": "奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表",
-      "title_en": null,
-      "title_zh": "奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表",
-      "title_bilingual": "奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表"
-    },
-    {
-      "id": "1beb65a8bb7dc057b8187ee204188cf6d735157d",
-      "site_id": "aibase",
-      "site_name": "AIbase",
-      "source": "AIbase",
-      "title": "特斯拉获300亿美元新信贷额度，全面加速Cybercab无人出租车与Optimus量产",
-      "url": "https://www.aibase.com/news/31422",
-      "published_at": "2026-09-30T08:01:50.748Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-09-30T08:01:50.748Z",
-      "title_original": "特斯拉获300亿美元新信贷额度，全面加速Cybercab无人出租车与Optimus量产",
-      "title_en": null,
-      "title_zh": "特斯拉获300亿美元新信贷额度，全面加速Cybercab无人出租车与Optimus量产",
-      "title_bilingual": "特斯拉获300亿美元新信贷额度，全面加速Cybercab无人出租车与Optimus量产"
-    },
-    {
-      "id": "a42fc75af14130420976df05d28c38ddbba6e9bc",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "published_at": "2026-09-30T07:33:45Z",
-      "first_seen_at": "2026-10-01T01:04:27.688Z",
-      "last_seen_at": "2026-10-01T01:04:27.688Z",
-      "title_original": "Doing a Machine Learning PhD While Working in Japan",
-      "title_en": "Doing a Machine Learning PhD While Working in Japan",
-      "title_zh": "在日本工作期间攻读机器学习博士学位",
-      "title_bilingual": "在日本工作期间攻读机器学习博士学位 / Doing a Machine Learning PhD While Working in Japan"
-    },
-    {
-      "id": "3508b37fb0d972cb79d4a30ed588231b3f55d3bb",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Why Is Sam Altman a Free Man?",
-      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice",
-      "published_at": "2026-09-30T07:32:40Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T01:04:27.688Z",
-      "title_original": "Why Is Sam Altman a Free Man?",
-      "title_en": "Why Is Sam Altman a Free Man?",
-      "title_zh": "萨姆·阿尔特曼为何能重获自由？",
-      "title_bilingual": "萨姆·阿尔特曼为何能重获自由？ / Why Is Sam Altman a Free Man?"
-    },
-    {
-      "id": "0cfb5bca81cfb14c45df5ef4eb3527b0576041d4",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today",
-      "published_at": "2026-09-30T07:12:31Z",
-      "first_seen_at": "2026-09-30T16:15:52.109Z",
-      "last_seen_at": "2026-10-01T01:04:27.688Z",
-      "title_original": "September 2026: The world today, as seen by one Polish guy",
-      "title_en": "September 2026: The world today, as seen by one Polish guy",
-      "title_zh": "2026年9月：一位波兰人眼中的当今世界",
-      "title_bilingual": "2026年9月：一位波兰人眼中的当今世界 / September 2026: The world today, as seen by one Polish guy"
-    },
-    {
-      "id": "d6d32553f2319ec58c4bcac6e1dc7cbf66e0020f",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Tesla takes on $30B in credit as it approaches unprofitability",
-      "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability",
-      "published_at": "2026-09-30T04:37:37Z",
-      "first_seen_at": "2026-09-30T08:01:50.748Z",
-      "last_seen_at": "2026-10-01T01:04:27.688Z",
-      "title_original": "Tesla takes on $30B in credit as it approaches unprofitability",
-      "title_en": "Tesla takes on $30B in credit as it approaches unprofitability",
-      "title_zh": "特斯拉在濒临亏损之际借入300亿美元信贷",
-      "title_bilingual": "特斯拉在濒临亏损之际借入300亿美元信贷 / Tesla takes on $30B in credit as it approaches unprofitability"
     }
   ]
 }
